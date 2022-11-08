@@ -6,7 +6,7 @@ function App() {
     <div>
     <h1>welcome to react.js</h1>
     <button type="button" class="btn btn-primary">Primary</button>
-    <button type="button" class="btn btn-secondary">Secondary</button>
+    <button type="button" className="btn btn-secondary mt-3">Secondary</button>
 <button type="button" class="btn btn-success">Success</button>
 <button type="button" class="btn btn-danger">Danger</button>
 <button type="button" class="btn btn-warning">Warning</button>
