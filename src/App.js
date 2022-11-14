@@ -15,6 +15,14 @@ function App() {
 <button type="button" className="btn btn-info">Info</button>
 <button type="button" className="btn btn-light">Light</button>
 <button type="button" className="btn btn-dark">Dark</button>
+<img src="image/img.jpg" alt="Show Image"/>
+<img src="image/img2.jpg" alt="Show Image"/>
+<img src="image/img3.jpg" alt="Show Image"/>
+<img src="image/img4.jpg" alt="Show Image"/>
+<img src="image/img5.jpg" alt="Show Image"/>
+<img src="image/img6.jpg" alt="Show Image"/>
+<img src="image/img7.jpg" alt="Show Image"/>
+<img src="image/calculator.png" alt="Show Image"/>
     </div>
     )
 }
