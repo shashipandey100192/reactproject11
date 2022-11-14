@@ -14,9 +14,9 @@ function App() {
 <button type="button" className="btn btn-warning">Warning</button>
 <button type="button" className="btn btn-info">Info</button>
 <button type="button" className="btn btn-light">Light</button>
-<button type="button" className="btn btn-dark">ark</button>
+<button type="button" className="btn btn-dark">Dark</button>
     </div>
     )
 }
 
-export default A
+export default App;
