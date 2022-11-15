@@ -1,11 +1,10 @@
+// import logo from './logo.svg';
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Fragment } from 'react';
 
 function App() {
   return (
-    <Fragment>
     <div>
               <h1 className="border mt-5">welcome to react.js</h1>
               <button type="button" className="btn btn-primary mb-5">Primary</button>
@@ -18,8 +17,6 @@ function App() {
           <button type="button" className="btn btn-dark">Dark</button>
           <img src="image/img2.jpg" alt="ducat" />
     </div>
-    <div>web</div>
-    </Fragment>
     )
 }
 
