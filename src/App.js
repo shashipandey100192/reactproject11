@@ -1,3 +1,5 @@
+import React, {Fragment} from 'react';
+
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle';
@@ -18,10 +20,14 @@ function App() {
           <button type="button" className="btn btn-light">Light</button>
           <button type="button" className="btn btn-dark">Dark</button>
           <img src="image/img2.jpg" alt="ducat" />
+          <Myfooter />
+          <Mygallery />
+          
     </div>
+    
     </Fragment>
     )
 
 }
 
-export default App
+export default App;
